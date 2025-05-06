@@ -1,3 +1,4 @@
+module github.com/xlmktvz/go.xtream-codes
 
 go 1.17
 
