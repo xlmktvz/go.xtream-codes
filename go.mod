@@ -1,5 +1,4 @@
 module github.com/xlmktvz/go.xtream-codes
-
 go 1.17
 
 require github.com/onsi/gomega v1.17.0
